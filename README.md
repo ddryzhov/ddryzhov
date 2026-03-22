@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**ddryzhov/ddryzhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Daniil, a Java Backend Developer based in Slovakia.
 
-Here are some ideas to get you started:
+I build robust, scalable systems and love diving deep into **clean architecture**. If there’s a complex logic puzzle or a microservice to decouple, I’m on it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **Java (8-25)**, **Spring Boot**, **Microservices (Spring Cloud)**, and **AWS**. My favorite tools are **IntelliJ IDEA**, **Docker**, and **Postman** for API testing.
+
+I've got several pinned projects, but my favorite is the **BookStore Microservices system**—it features a **two-tier security model** and full resilience with **Resilience4j**. I’ve built full-featured applications from scratch, ensuring every line of code passes strict technical reviews.
+
+If you want to see how I architect systems, check out my repositories below.
+
+### Fun Facts:
+
+* Master of Sports in swimming 🏊
+* Polyglot: English, Slovak, Ukrainian, Russian
+* Coffee and clean code are my love language
