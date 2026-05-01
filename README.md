@@ -1,17 +1,11 @@
-# Hey there! 👋
+### Hey there! 👋 I'm Daniil.
 
-### I'm Daniil, a Java Backend Developer based in Slovakia.
+I'm a Java Backend Developer from Slovakia. I enjoy solving complex logic puzzles, decoupling microservices, and writing maintainable code. 
 
-I build robust, scalable systems and love diving deep into **clean architecture**. If there’s a complex logic puzzle or a microservice to decouple, I’m on it.
+**My main stack:** Java, Spring Boot, Spring Cloud, AWS, and Docker.
 
-My main tech stack is **Java (8-25)**, **Spring Boot**, **Microservices (Spring Cloud)**, and **AWS**. My favorite tools are **IntelliJ IDEA**, **Docker**, and **Postman** for API testing.
+I've built several full-featured applications from scratch. My favorite one so far is the **BookStore Microservices** system, where I implemented a two-tier security model and full resilience with Resilience4j. You can check it out in the repositories below.
 
-I've got several pinned projects, but my favorite is the **BookStore Microservices system**—it features a **two-tier security model** and full resilience with **Resilience4j**. I’ve built full-featured applications from scratch, ensuring every line of code passes strict technical reviews.
-
-If you want to see how I architect systems, check out my repositories below.
-
-### Fun Facts:
-
-* Master of Sports in swimming 🏊
-* Polyglot: English, Slovak, Ukrainian, Russian
-* Coffee and clean code are my love language
+**Outside of tech:**
+* 🏊‍♂️ Master of Sports in swimming
+* 🗣️ English, Slovak, Ukrainian, Russian
